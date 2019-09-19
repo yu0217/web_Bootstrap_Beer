@@ -28,7 +28,6 @@
   color: gold;
   font-size: 2em;
   padding: 20px 0;
-  font-weight: 550;
 }
 
 .row img {
@@ -90,5 +89,10 @@
   right: 20px;
   bottom: 20px;
   cursor: pointer;
+  display: none;
+}
+
+.box {
+  height: 1000px;
 }
 /*# sourceMappingURL=style.css.map */

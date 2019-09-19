@@ -31,7 +31,7 @@ $color-main:gold;
     font-size: 2em;
     padding: 20px 0;
     // 調整文字粗細
-    font-weight: 550;
+    // font-weight: 550;
 }
 
 .row {
@@ -96,4 +96,9 @@ $color-main:gold;
     
     // 靠近它的時候會變成手指-意指可以選取
     cursor: pointer;
+    display: none;
+}
+
+.box{
+    height: 1000px;
 }
